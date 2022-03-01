@@ -1,0 +1,5 @@
+fields:
+  base_schema:
+    label: 'thefehr.lighthouse::lang.models.base_schema.single'
+    span: full
+    type: TheFehr\Lighthouse\FormWidgets\GraphQLSchemaEditor

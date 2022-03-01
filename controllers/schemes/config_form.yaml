@@ -1,0 +1,11 @@
+name: 'thefehr.lighthouse::lang.models.schema.single'
+modelClass: TheFehr\Lighthouse\Models\Schema
+form: $/thefehr/lighthouse/models/schema/fields.yaml
+defaultRedirect: thefehr/lighthouse/schemes
+create:
+    redirect: 'thefehr/lighthouse/schemes/update/:id'
+    redirectClose: thefehr/lighthouse/schemes
+update:
+    redirect: thefehr/lighthouse/schemes
+    redirectClose: thefehr/lighthouse/schemes
+preview: {  }

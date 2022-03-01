@@ -1,0 +1,11 @@
+plugin:
+    name: 'thefehr.lighthouse::lang.plugin.name'
+    description: 'thefehr.lighthouse::lang.plugin.description'
+    author: TheFehr
+    icon: oc-icon-share-alt
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'thefehr.lighthouse::lang.models.schema.plural'
+        url: thefehr/lighthouse/schemes
+        icon: icon-share-alt

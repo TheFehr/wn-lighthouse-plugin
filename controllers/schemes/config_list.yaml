@@ -1,0 +1,12 @@
+title: 'thefehr.lighthouse::lang.models.schema.plural'
+modelClass: TheFehr\Lighthouse\Models\Schema
+list: $/thefehr/lighthouse/models/schema/columns.yaml
+recordUrl: 'thefehr/lighthouse/schemes/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

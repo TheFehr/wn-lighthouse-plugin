@@ -1,0 +1,16 @@
+{
+    "name": "thefehr/lighthouse",
+    "license": "MIT",
+    "type": "winter-plugin",
+    "description": "",
+    "require": {
+        "nuwave/lighthouse": "^5.0"
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": [
+                "*"
+            ]
+        }
+    }
+}

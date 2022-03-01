@@ -1,0 +1,7 @@
+graphql/*.graphql
+
+graphql/schema.graphql.valid
+
+node_modules/
+formwidgets/graphqlschemaeditor/assets/
+!formwidgets/graphqlschemaeditor/assets/.gitkeep

@@ -1,0 +1,4 @@
+1.0.1: First version of Lighthouse
+1.0.2:
+    - 'Created table thefehr_lighthouse_schemes'
+    - builder_table_create_thefehr_lighthouse_schemes.php
